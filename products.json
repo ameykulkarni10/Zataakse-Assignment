@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Awesome Lamp",
+      "category": "Lighting",
+      "description": "A stylish and modern lamp for any room.",
+      "price": 40,
+      "currency": "USD",
+      "stockStatus": "In Stock",
+      "brand": "Poliform",
+      "imageUrl": "https://via.placeholder.com/150",
+      "rating": 4.5,
+      "reviewCount": 32
+    },
+    {
+      "id": "2",
+      "name": "Cool Flower",
+      "category": "Decoration",
+      "description": "A beautiful flower decoration for your home.",
+      "price": 20,
+      "currency": "USD",
+      "stockStatus": "In Stock",
+      "brand": "Roche Bobois",
+      "imageUrl": "https://via.placeholder.com/150",
+      "rating": 4.2,
+      "reviewCount": 15
+    },
+    {
+      "id": "3",
+      "name": "Cozy Sofa",
+      "category": "Furniture",
+      "description": "A cozy sofa that adds comfort and style.",
+      "price": 150,
+      "currency": "USD",
+      "stockStatus": "Out of Stock",
+      "brand": "Ikea",
+      "imageUrl": "https://via.placeholder.com/150",
+      "rating": 4.8,
+      "reviewCount": 50
+    },
+    {
+      "id": "4",
+      "name": "Awesome Candle",
+      "category": "Lighting",
+      "description": "A beautifully scented candle to lighten up your home.",
+      "price": 15,
+      "currency": "USD",
+      "stockStatus": "In Stock",
+      "brand": "Kartell",
+      "imageUrl": "https://via.placeholder.com/150",
+      "rating": 4.0,
+      "reviewCount": 22
+    },
+    {
+      "id": "5",
+      "name": "Fancy Chair",
+      "category": "Furniture",
+      "description": "An elegant chair that enhances any room decor.",
+      "price": 70,
+      "currency": "USD",
+      "stockStatus": "In Stock",
+      "brand": "Poliform",
+      "imageUrl": "https://via.placeholder.com/150",
+      "rating": 4.6,
+      "reviewCount": 18
+    },
+    {
+      "id": "6",
+      "name": "Classic Vase",
+      "category": "Decoration",
+      "description": "A classic vase for a touch of timeless elegance.",
+      "price": 25,
+      "currency": "USD",
+      "stockStatus": "In Stock",
+      "brand": "Roche Bobois",
+      "imageUrl": "https://via.placeholder.com/150",
+      "rating": 4.3,
+      "reviewCount": 25
+    }
+  ],
+  "totalProducts": 15
+}
